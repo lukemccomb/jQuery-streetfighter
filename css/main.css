@@ -1,6 +1,26 @@
 body {
   background-color: black;
 }
+
+span {
+  font-weight: bold;
+  font-family: Times;
+}
+
+#text {
+  position: absolute;
+  top: 165px;
+  left: 600px;
+  width: 350px;
+  height: 200px;
+  font-size: 150%;
+  font-weight: 100;
+  font-family: Baskerville;
+  line-height: 150%;
+  text-shadow: 1px 1px 1px rgba(0,100,255,0.85);
+  color: rgba(255,0,55,1);
+  letter-spacing: 1px;
+}
 .main {
   background-color: white;
   margin-top: 110px;
